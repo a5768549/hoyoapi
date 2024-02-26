@@ -31,11 +31,9 @@ This is a NodeJS library designed as a connector to the Official HoYoLab API, co
 
 ## Install
 
-For NPM <br/>
-`npm install hoyoapi`
-
 For Yarn <br/>
-`yarn install hoyoapi`
+1. `git init` for husky init <br/>
+2. `yarn install hoyoapi`
 
 ## Features
 
